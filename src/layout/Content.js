@@ -1,5 +1,5 @@
-import React from 'react'
-
+import React,{useEffect, useLayoutEffect} from 'react'
+import { db } from './firebase'
 export default function Content() {
   return (
     <>

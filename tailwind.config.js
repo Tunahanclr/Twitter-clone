@@ -17,6 +17,7 @@ module.exports = {
           light:"##AAB8C2",
           extralight:"##E1E8ED",
           lightest:"#F5F8FA",
+          timelinehover:"##E93838",
         },
         black:"#14171A"
        }
